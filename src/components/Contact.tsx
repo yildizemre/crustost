@@ -73,7 +73,7 @@ export default function Contact() {
 
           <div className="h-full min-h-[600px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3124.123456789!2d30.5387!3d38.7569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDQ1JzI0LjgiTiAzMMKwMzInMTkuMyJF!5e0!3m2!1str!2str!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.2891!2d29.1255!3d40.9914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7f4b5e3c5e7%3A0x0!2zQXRhxZ9laGlyLCDEsHN0YW5idWw!5e0!3m2!1str!2str!4v1704400000000"
               width="100%"
               height="100%"
               style={{ border: 0, filter: 'saturate(0.8)' }}

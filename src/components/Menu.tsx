@@ -23,7 +23,7 @@ const menuData: MenuCategory[] = [
     name: 'Tostlar',
     subtitle: 'Ekşi mayalı köy ekmeğinde tereyağı ve el yapımı soslarımızla hazırlanan özenli lezzetler.',
     icon: <Wheat size={32} strokeWidth={1.5} />,
-    categoryImage: '/tost.jpg',
+    categoryImage: 'https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&cs=tinysrgb&w=800',
     items: [
       {
         id: 1,
@@ -68,7 +68,7 @@ const menuData: MenuCategory[] = [
     name: 'Bazlama',
     subtitle: 'Geleneksel puf puf bazlama ekmeğinin yumuşacık dokunuşuyla hazırlanan, gözleme tadında tostlar.',
     icon: <Sandwich size={32} strokeWidth={1.5} />,
-    categoryImage: 'https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&cs=tinysrgb&w=800',
+    categoryImage: '/tost.jpg',
     items: [
       {
         id: 7,

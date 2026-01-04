@@ -33,7 +33,7 @@ export default function Values() {
           </h2>
           <div className="w-24 h-1 bg-[#D4AF37] mx-auto mb-6" />
           <p className="text-base md:text-lg text-[#2C3E2D]/80 max-w-3xl mx-auto leading-relaxed px-4">
-            2015 yılından bu yana, Ankara'nın kalbinde lezzet ve kaliteyi bir araya getiriyoruz.
+            2026 yılından bu yana, Istanbul'un kalbinde lezzet ve kaliteyi bir araya getiriyoruz.
             Crust olarak, sadece yemek sunmuyoruz; yaşam tarzı yaratıyoruz. Her gün,
             misafirlerimize unutulmaz anlar yaşatmak için çalışıyoruz.
           </p>
@@ -72,10 +72,10 @@ export default function Values() {
             <p className="text-base md:text-lg">
               Crust'ın hikayesi, iki arkadaşın ortak bir tutkusu ile başladı:
               İnsanları bir araya getiren, sıradan anları özel kılan lezzetler yaratmak.
-              Ankara'nın hızlı temposunda, kaliteli ve samimi bir durak olmayı hedefledik.
+              Istanbul'un hızlı temposunda, kaliteli ve samimi bir durak olmayı hedefledik.
             </p>
             <p className="text-base md:text-lg">
-              Bugün, binlerce mutlu misafire ev sahipliği yapmanın gururunu yaşıyoruz.
+              Bugün yüzlerce kişiye misafir perver olarak hizmet vermenin gururunu yaşıyoruz.
               Her sabah fırından yeni çıkan ekmeklerimiz, özenerek hazırladığımız tostlarımız,
               ve özel waffle'larımız ile gününüze güzel bir başlangıç yapmanız için buradayız.
             </p>
