@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
 import Menu from './components/Menu';
-import Gallery from './components/Gallery';
+import Values from './components/Values';
 import Contact from './components/Contact';
 
 function App() {
@@ -29,7 +29,7 @@ function App() {
       <Hero />
       <About />
       <Menu />
-      <Gallery />
+      <Values />
       <Contact />
 
       <footer className="bg-[#1A472A] py-8 text-center">

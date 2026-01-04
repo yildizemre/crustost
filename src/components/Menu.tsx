@@ -23,7 +23,7 @@ const menuData: MenuCategory[] = [
     name: 'Tostlar',
     subtitle: 'Ekşi mayalı köy ekmeğinde tereyağı ve el yapımı soslarımızla hazırlanan özenli lezzetler.',
     icon: <Wheat size={32} strokeWidth={1.5} />,
-    categoryImage: 'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=800',
+    categoryImage: '/tost.jpg',
     items: [
       {
         id: 1,
@@ -122,7 +122,7 @@ const menuData: MenuCategory[] = [
     name: 'Soslar',
     subtitle: 'Lezzetlerinizi tamamlayacak ev yapımı özel soslarımız.',
     icon: <Droplet size={32} strokeWidth={1.5} />,
-    categoryImage: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800',
+    categoryImage: '/sosyal.png',
     items: [
       {
         id: 13,
@@ -155,7 +155,7 @@ const menuData: MenuCategory[] = [
     name: 'İçecekler',
     subtitle: 'Serinletici ve ferahlatıcı içecek seçeneklerimiz.',
     icon: <Coffee size={32} strokeWidth={1.5} />,
-    categoryImage: 'https://images.pexels.com/photos/1649337/pexels-photo-1649337.jpeg?auto=compress&cs=tinysrgb&w=800',
+    categoryImage: '/icecek.png',
     items: [
       {
         id: 17,
